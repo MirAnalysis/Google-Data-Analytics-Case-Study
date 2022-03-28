@@ -34,7 +34,7 @@
 
   * Average BMI 27.98 (25.0 to 29.9 falls within the overweight range according to the CDC)
 
- 5. Daily Percentage of activity 
+ ## 5. Daily Percentage of activity 
 
   * The majority of time is spent sedentary and asleep followed by light leveled activity. 
 
