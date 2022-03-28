@@ -1,7 +1,7 @@
-## Recommendations
+# Recommendations
 Key strategies:
 
-1. Market the features that Bellabeat offers which Fitbit users are already using.
+## 1. Market the features that Bellabeat offers which Fitbit users are already using.
 
  * Expand on the options to track physical activity with specific exercises tracking and coaching memberships for new workout plans.
 
@@ -13,7 +13,7 @@ Key strategies:
 
   * Most users spend the majority of their active minutes performing light level exercise which users could better expand on with the ability to assign specific exercises such as yoga or walking to their daily activity. 
 
-2. Market improved wellness by targeting areas of health tracking that the Fitbit data suggests users could use improvement in
+## 2. Market improved wellness by targeting areas of health tracking that the Fitbit data suggests users could use improvement in
 
  * Meet the recommended 7 hours of sleep with the sleep tracker and monitor their sleep cycles for better sleep health. 
 
@@ -25,7 +25,7 @@ Key strategies:
 
  * The coaching membership can be used to round out the midweek plateau of activity displayed in the Fitbit data by being held accountable and/or given work out schedules.
 
-3. Avoid marketing that focuses on weight loss, instead promote the positive and well rounded health feature: the Wellness Score. This sets Bellabeat apart from its competitors. 
+## 3. Avoid marketing that focuses on weight loss, instead promote the positive and well rounded health feature: the Wellness Score. This sets Bellabeat apart from its competitors. 
 
  * The data suggests users do not have an interest in weight tracking as it was the least used feature.
 
